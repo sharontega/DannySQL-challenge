@@ -11,8 +11,8 @@ Note:
 
 Solutions are coded in MySQL
 Challenge case studies
-🍜Case Study #1 - Danny's Diner
 
+🍜Case Study #1 - Danny's Diner
 
 🍕Case Study #2 - Pizza Runner
 
